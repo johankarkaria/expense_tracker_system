@@ -21,7 +21,7 @@ This project is an expense management system that consists of a Streamlit fronte
    ```
 2.**Install dependencies:**:   
    ```commandline
-    pip install -r requirements.txt
+    pip install -r requirement.txt
    ```
 3.**Run the FastAPI server:**:   
    ```commandline
@@ -29,5 +29,5 @@ This project is an expense management system that consists of a Streamlit fronte
    ```
 4.**Run the Streamlit app:**:   
    ```commandline
-    streamlit run frontend/app.py
+    streamlit run app.py
    ```
