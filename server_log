@@ -1,0 +1,171 @@
+2025-08-04 22:23:32,711  - db_helper - INFO - This function is amazing.!
+2025-08-05 19:21:36,783  - db_helper - INFO - This function is amazing.!
+2025-08-05 19:24:58,899  - db_helper - INFO - This function is amazing.!
+2025-08-05 19:33:04,005  - db_helper - INFO - This function is amazing.!
+2025-08-05 19:35:57,354  - db_helper - INFO - This function is amazing.!
+2025-08-05 19:36:33,936  - db_helper - INFO - This function is amazing.!
+2025-08-05 19:37:04,582  - db_helper - INFO - This function is amazing.!
+2025-08-05 19:42:24,102  - db_helper - INFO - This function is amazing.!
+2025-08-05 20:01:49,901  - db_helper - INFO - This function is amazing.!
+2025-08-05 20:04:36,611  - db_helper - INFO - This function is amazing.!
+2025-08-05 20:09:13,632  - db_helper - INFO - This function is amazing.!
+2025-08-05 20:10:59,425  - db_helper - INFO - This function is amazing.!
+2025-08-05 20:17:06,475  - db_helper - INFO - This function is amazing.!
+2025-08-05 20:17:30,391  - db_helper - INFO - This function is amazing.!
+2025-08-05 20:18:54,753  - db_helper - INFO - This function is amazing.!
+2025-08-05 21:32:47,912  - db_helper - INFO - This function is amazing.!
+2025-08-05 21:33:21,885  - db_helper - INFO - This function is amazing.!
+2025-08-05 21:34:40,164  - db_helper - INFO - This function is amazing.!
+2025-08-05 22:01:46,676  - db_helper - INFO - This function is amazing.!
+2025-08-05 22:02:17,412  - db_helper - INFO - This function is amazing.!
+2025-08-05 22:02:24,159  - db_helper - INFO - This function is amazing.!
+2025-08-05 22:15:02,565  - db_helper - INFO - This function is amazing.!
+2025-08-05 22:16:41,147  - db_helper - INFO - This function is amazing.!
+2025-08-05 22:17:50,349  - db_helper - INFO - This function is amazing.!
+2025-08-05 22:18:14,387  - db_helper - INFO - This function is amazing.!
+2025-08-05 22:24:20,948  - db_helper - INFO - This function is amazing.!
+2025-08-05 22:24:29,248  - db_helper - INFO - This function is amazing.!
+2025-08-05 22:24:39,913  - db_helper - INFO - This function is amazing.!
+2025-08-05 22:33:52,480  - db_helper - INFO - This function is amazing.!
+2025-08-05 22:33:57,530  - db_helper - INFO - This function is amazing.!
+2025-08-05 22:41:20,158  - db_helper - INFO - This function is amazing.!
+2025-08-05 22:44:02,593  - db_helper - INFO - This function is amazing.!
+2025-08-05 22:44:02,633  - db_helper - INFO - This function is going well!!!!
+2025-08-05 22:44:02,645  - db_helper - INFO - This function:<function insert_expense at 0x1076015a0> takes as an argument expense_date:2024-08-07, amount:20.0category:Shopping, notes:bought coconut!
+2025-08-05 22:44:02,669  - db_helper - INFO - This function:<function insert_expense at 0x1076015a0> takes as an argument expense_date:2024-08-07, amount:10.0category:Shopping, notes:bought hair oil!
+2025-08-05 22:44:02,686  - db_helper - INFO - This function:<function insert_expense at 0x1076015a0> takes as an argument expense_date:2024-08-07, amount:40.0category:Food, notes:ate pakoda!
+2025-08-05 23:37:58,947  - db_helper - INFO - fetch_expense_summary called with start:2024-08-01 end:2024-08-01!
+2025-08-05 23:38:21,405  - db_helper - INFO - fetch_expense_summary called with start:2024-08-01 end:2024-08-05!
+2025-08-05 23:55:11,210  - db_helper - INFO - fetch_expense_summary called with start:2024-08-01 end:2024-08-05!
+2025-08-06 17:42:06,769  - db_helper - INFO - This function is amazing.!
+2025-08-06 17:43:04,338  - db_helper - INFO - This function is amazing.!
+2025-08-06 17:45:10,823  - db_helper - INFO - This function is amazing.!
+2025-08-06 17:58:39,749  - db_helper - INFO - This function is amazing.!
+2025-08-06 17:58:46,896  - db_helper - INFO - This function is amazing.!
+2025-08-06 17:58:50,967  - db_helper - INFO - This function is amazing.!
+2025-08-06 18:00:16,194  - db_helper - INFO - This function is amazing.!
+2025-08-06 18:04:32,441  - db_helper - INFO - This function is amazing.!
+2025-08-06 18:04:35,882  - db_helper - INFO - This function is amazing.!
+2025-08-06 18:04:43,347  - db_helper - INFO - This function is amazing.!
+2025-08-06 18:04:56,662  - db_helper - INFO - This function is amazing.!
+2025-08-06 18:05:03,851  - db_helper - INFO - This function is amazing.!
+2025-08-06 18:05:28,313  - db_helper - INFO - This function is amazing.!
+2025-08-06 18:05:33,149  - db_helper - INFO - This function is amazing.!
+2025-08-06 18:06:49,316  - db_helper - INFO - This function is amazing.!
+2025-08-06 18:07:04,483  - db_helper - INFO - This function is amazing.!
+2025-08-06 18:15:57,266  - db_helper - INFO - This function is amazing.!
+2025-08-06 18:23:41,082  - db_helper - INFO - This function is amazing.!
+2025-08-06 19:00:07,577  - db_helper - INFO - fetch_expense_summary called with start:2024-08-01 end:2024-08-05!
+2025-08-06 19:00:33,646  - db_helper - INFO - fetch_expense_summary called with start:2024-08-01 end:2024-08-05!
+2025-08-06 19:02:10,723  - db_helper - INFO - This function is amazing.!
+2025-08-06 19:02:17,442  - db_helper - INFO - This function is amazing.!
+2025-08-06 19:02:19,939  - db_helper - INFO - This function is amazing.!
+2025-08-06 19:02:19,980  - db_helper - INFO - fetch_expense_summary called with start:2024-08-01 end:2024-08-05!
+2025-08-06 19:26:33,097  - db_helper - INFO - This function is amazing.!
+2025-08-06 19:26:36,589  - db_helper - INFO - This function is amazing.!
+2025-08-06 19:26:36,622  - db_helper - INFO - fetch_expense_summary called with start:2024-08-01 end:2024-08-05!
+2025-08-06 19:28:55,080  - db_helper - INFO - This function is amazing.!
+2025-08-06 19:28:58,442  - db_helper - INFO - This function is amazing.!
+2025-08-06 19:28:58,476  - db_helper - INFO - fetch_expense_summary called with start:2024-08-01 end:2024-08-05!
+2025-08-06 19:36:46,245  - db_helper - INFO - This function is amazing.!
+2025-08-06 19:36:50,257  - db_helper - INFO - This function is amazing.!
+2025-08-06 19:36:50,289  - db_helper - INFO - fetch_expense_summary called with start:2024-08-01 end:2024-08-05!
+2025-08-06 19:37:18,292  - db_helper - INFO - This function is amazing.!
+2025-08-06 19:37:24,390  - db_helper - INFO - This function is amazing.!
+2025-08-06 19:37:24,420  - db_helper - INFO - fetch_expense_summary called with start:2024-08-01 end:2024-08-05!
+2025-08-06 19:41:12,976  - db_helper - INFO - This function is amazing.!
+2025-08-06 19:41:17,589  - db_helper - INFO - This function is amazing.!
+2025-08-06 19:41:17,620  - db_helper - INFO - fetch_expense_summary called with start:2024-08-01 end:2024-08-05!
+2025-08-06 19:44:01,715  - db_helper - INFO - This function is amazing.!
+2025-08-06 19:44:05,010  - db_helper - INFO - This function is amazing.!
+2025-08-06 19:44:05,040  - db_helper - INFO - fetch_expense_summary called with start:2024-08-01 end:2024-08-05!
+2025-08-06 19:44:59,982  - db_helper - INFO - This function is amazing.!
+2025-08-06 19:45:03,041  - db_helper - INFO - This function is amazing.!
+2025-08-06 19:45:03,074  - db_helper - INFO - fetch_expense_summary called with start:2024-08-01 end:2024-08-05!
+2025-08-06 19:52:32,358  - db_helper - INFO - This function is amazing.!
+2025-08-06 19:52:35,774  - db_helper - INFO - This function is amazing.!
+2025-08-06 19:52:35,805  - db_helper - INFO - fetch_expense_summary called with start:2024-08-01 end:2024-08-05!
+2025-08-08 18:13:08,827  - db_helper - INFO - This function is amazing.!
+2025-08-08 18:13:38,104  - db_helper - INFO - This function is amazing.!
+2025-08-08 18:15:10,182  - db_helper - INFO - This function is amazing.!
+2025-08-08 18:15:10,228  - db_helper - INFO - fetch_expense_summary called with start:2024-08-01 end:2024-08-05!
+2025-08-13 21:49:20,522  - db_helper - INFO - This function is amazing.!
+2025-08-13 21:49:29,780  - db_helper - INFO - This function is amazing.!
+2025-08-13 21:49:29,806  - db_helper - INFO - fetch_expense_summary called with start:2024-08-01 end:2024-08-05!
+2025-08-13 22:11:43,666  - db_helper - INFO - This function is amazing.!
+2025-08-13 22:18:06,927  - db_helper - INFO - This function is amazing.!
+2025-08-13 22:18:56,375  - db_helper - INFO - This function is amazing.!
+2025-08-13 22:23:24,512  - db_helper - INFO - This function is amazing.!
+2025-08-13 22:23:29,614  - db_helper - INFO - This function is amazing.!
+2025-08-13 22:23:33,910  - db_helper - INFO - This function is amazing.!
+2025-08-13 22:31:49,267  - db_helper - INFO - This function is amazing.!
+2025-08-13 22:31:52,071  - db_helper - INFO - This function is amazing.!
+2025-08-13 22:41:56,820  - db_helper - INFO - This function is amazing.!
+2025-08-13 22:41:59,434  - db_helper - INFO - This function is amazing.!
+2025-08-13 22:42:53,403  - db_helper - INFO - This function is amazing.!
+2025-08-13 22:42:56,549  - db_helper - INFO - This function is amazing.!
+2025-08-13 22:44:30,768  - db_helper - INFO - This function is amazing.!
+2025-08-13 22:44:33,849  - db_helper - INFO - This function is amazing.!
+2025-08-13 22:47:44,332  - db_helper - INFO - This function is amazing.!
+2025-08-13 22:47:46,998  - db_helper - INFO - This function is amazing.!
+2025-08-13 22:52:09,155  - db_helper - INFO - This function is amazing.!
+2025-08-13 22:52:11,713  - db_helper - INFO - This function is amazing.!
+2025-08-13 22:55:59,435  - db_helper - INFO - This function is amazing.!
+2025-08-13 22:55:59,480  - db_helper - INFO - fetch_expense_summary called with start:2024-08-01 end:2024-08-05!
+2025-08-13 23:03:47,955  - db_helper - INFO - This function is amazing.!
+2025-08-13 23:03:50,691  - db_helper - INFO - This function is amazing.!
+2025-08-13 23:09:34,026  - db_helper - INFO - This function is amazing.!
+2025-08-13 23:09:37,191  - db_helper - INFO - This function is amazing.!
+2025-08-14 18:06:46,657  - db_helper - INFO - This function is amazing.!
+2025-08-14 18:06:52,763  - db_helper - INFO - This function is amazing.!
+2025-08-14 18:06:56,265  - db_helper - INFO - This function is amazing.!
+2025-08-14 18:07:23,963  - db_helper - INFO - This function is amazing.!
+2025-08-14 18:07:23,990  - db_helper - INFO - fetch_expense_summary called with start:2024-08-01 end:2024-08-05!
+2025-08-14 18:07:40,882  - db_helper - INFO - This function is amazing.!
+2025-08-14 18:24:03,795  - db_helper - INFO - This function is amazing.!
+2025-08-14 18:24:08,845  - db_helper - INFO - This function is amazing.!
+2025-08-14 18:24:50,749  - db_helper - INFO - This function is amazing.!
+2025-08-14 18:24:52,674  - db_helper - INFO - This function is amazing.!
+2025-08-14 18:25:27,113  - db_helper - INFO - This function is amazing.!
+2025-08-14 18:25:27,156  - db_helper - INFO - fetch_expense_summary called with start:2024-08-01 end:2024-08-05!
+2025-08-14 18:26:12,746  - db_helper - INFO - This function is amazing.!
+2025-08-14 18:29:45,788  - db_helper - INFO - This function is amazing.!
+2025-08-14 18:29:48,458  - db_helper - INFO - This function is amazing.!
+2025-08-14 18:30:10,866  - db_helper - INFO - This function is amazing.!
+2025-08-14 18:30:13,492  - db_helper - INFO - This function is amazing.!
+2025-08-14 18:30:45,606  - db_helper - INFO - This function is amazing.!
+2025-08-14 18:30:45,633  - db_helper - INFO - fetch_expense_summary called with start:2024-08-01 end:2024-08-05!
+2025-08-14 18:30:53,508  - db_helper - INFO - This function is amazing.!
+2025-08-14 18:41:04,805  - db_helper - INFO - This function is amazing.!
+2025-08-14 18:41:07,060  - db_helper - INFO - This function is amazing.!
+2025-08-14 18:44:12,357  - db_helper - INFO - This function is amazing.!
+2025-08-14 18:44:15,939  - db_helper - INFO - This function is amazing.!
+2025-08-14 18:50:46,927  - db_helper - INFO - This function is amazing.!
+2025-08-14 18:50:49,773  - db_helper - INFO - This function is amazing.!
+2025-08-14 18:51:42,965  - db_helper - INFO - This function is amazing.!
+2025-08-14 18:51:45,223  - db_helper - INFO - This function is amazing.!
+2025-08-14 18:54:43,946  - db_helper - INFO - This function is amazing.!
+2025-08-14 18:54:46,206  - db_helper - INFO - This function is amazing.!
+2025-08-14 18:57:03,454  - db_helper - INFO - This function is amazing.!
+2025-08-14 18:57:03,500  - db_helper - INFO - fetch_expense_summary called with start:2024-08-01 end:2024-08-05!
+2025-08-14 18:57:34,555  - db_helper - INFO - This function is amazing.!
+2025-08-14 18:58:17,077  - db_helper - INFO - This function is amazing.!
+2025-08-14 18:58:19,455  - db_helper - INFO - This function is amazing.!
+2025-08-14 19:00:13,642  - db_helper - INFO - This function is amazing.!
+2025-08-14 19:00:16,025  - db_helper - INFO - This function is amazing.!
+2025-08-14 19:01:54,374  - db_helper - INFO - This function is amazing.!
+2025-08-14 19:01:56,523  - db_helper - INFO - This function is amazing.!
+2025-08-14 19:03:47,959  - db_helper - INFO - This function is amazing.!
+2025-08-14 19:03:47,998  - db_helper - INFO - fetch_expense_summary called with start:2024-08-01 end:2024-08-05!
+2025-08-14 19:06:11,233  - db_helper - INFO - This function is amazing.!
+2025-08-14 19:06:13,638  - db_helper - INFO - This function is amazing.!
+2025-08-14 19:07:23,786  - db_helper - INFO - This function is amazing.!
+2025-08-14 19:07:23,868  - db_helper - INFO - fetch_expense_summary called with start:2024-08-01 end:2024-08-05!
+2025-08-14 19:07:46,171  - db_helper - INFO - This function is amazing.!
+2025-08-30 10:23:09,996  - db_helper - INFO - This function is amazing.!
+2025-08-30 10:23:18,482  - db_helper - INFO - This function is amazing.!
+2025-08-30 10:23:18,510  - db_helper - INFO - fetch_expense_summary called with start:2024-08-01 end:2024-08-05!
+2025-08-30 10:23:28,233  - db_helper - INFO - This function is amazing.!
+2025-08-30 10:24:10,332  - db_helper - INFO - This function is amazing.!
+2025-08-30 10:24:10,362  - db_helper - INFO - fetch_expense_summary called with start:2024-08-01 end:2024-08-05!
+2025-08-30 10:24:21,314  - db_helper - INFO - This function is amazing.!
