@@ -25,7 +25,7 @@ This project is an expense management system that consists of a Streamlit fronte
    ```
 3.**Run the FastAPI server:**:   
    ```commandline
-    uvicorn server.server:app --reload
+    uvicorn server:app --reload
    ```
 4.**Run the Streamlit app:**:   
    ```commandline
