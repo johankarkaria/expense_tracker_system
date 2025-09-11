@@ -46,8 +46,8 @@ def fetch_expense_for_date(expense_date):
         expenses = cursor.fetchall()
         return expenses
 
-        # for expense in expenses:
-        #     print(expense)
+
+        
 
 
 def insert_expense(expense_date, amount, category, notes):
@@ -96,11 +96,10 @@ def fetch_expense_monthly():
 
 
 if __name__ == "__main__":
-    # insert_expense("2024-08-25", "40", "Food", "Eat tasty samosa chat")
-    length = fetch_expense_for_date("2024-08-15")
+    
 
-    print(len(length))
+    
+    
 
-    # fetch_all_records()
 
-#CRUD == Create, Retrieve, Update, Delete
+
